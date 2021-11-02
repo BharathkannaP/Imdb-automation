@@ -5,7 +5,7 @@ Prerequisities:
 
 Install latest Node Version
 
-Clone the Repository from URL "https://github.com/padma-into-git/imdb-test.git"
+Clone the Repository from URL "https://github.com/BharathkannaP/Imdb-automation.git"
 
 Navigate to the Cloned Repository Path in the Terminal
 
