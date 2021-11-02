@@ -1,0 +1,13 @@
+{
+  "defaultCommandTimeout": 6000,
+  "chromeWebSecurity": false,
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "overwrite": true,
+    "html": true,
+    "json": false
+  },
+  
+  "projectId": "n4hffz"
+}
+
