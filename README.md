@@ -1,5 +1,4 @@
 imdb-test
-Talon.One
 Steps to run the test
 Prerequisities:
 
@@ -38,10 +37,6 @@ To check the Test Reports, Open mochawesome*.html in the folder mochawesome-repo
 
 To check the Test Videos, Open EndToEndTest.js.mp4 in the folder videos/modules
 
-Dashboard Report: To view the results on Dashboard, click on the below URL or copy paste the below URL in your desired browser.
-
-https://dashboard.cypress.io/projects/n4hffz/runs/1/overview
-
 Project Details & Overview
 Tool used to Automate : Cypress
 
@@ -66,3 +61,6 @@ mochawesome-report: To store Mochawesome Test Reports in HTML. Just run the Html
 **Package.json: **This will help to make it easy for others to manage and install the dependencies.
 
 cypress.json: To store Cypress related Settings & Mochawesome Report Settings
+
+
+Scraped the top 250 movies from the chart
